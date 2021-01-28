@@ -1,0 +1,2 @@
+Segunda terá aula de front-end
+terça, quarta e quinta: backend
